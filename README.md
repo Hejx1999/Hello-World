@@ -1,2 +1,3 @@
 # Hello-World
-beginning
+Beginning
+I'm just a beginer, and now it's just the words of Guide.
